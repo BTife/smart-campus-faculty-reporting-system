@@ -10,7 +10,6 @@ from storage import save_report, using_azure
 MAX_TEXT = 1000
 MIN_TEXT = 10
 MAX_PHOTO_MB = 5
-# Replace with your campus's real buildings.
 LOCATIONS = ["Not sure / not listed", "McMechen", "Calloway", "Graves", "CBEIS",
              "Library", "Cafeteria", "Sports complex", "Outdoor / grounds"]
 
