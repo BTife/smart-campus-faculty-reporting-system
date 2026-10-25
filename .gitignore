@@ -1,0 +1,7 @@
+.env
+local_data/
+.venv/
+__pycache__/
+.azure/
+.vscode/
+.DS_Store
