@@ -1,6 +1,6 @@
-"""Saving reports: Azure Table Storage (text) + Azure Blob Storage (photos).
-Falls back to a local folder when no connection string is set, so you can
-build and test the form before touching Azure."""
+"""
+Saving reports: Azure Table Storage (text) + Azure Blob Storage (photos).
+"""
 import json
 import os
 import uuid
