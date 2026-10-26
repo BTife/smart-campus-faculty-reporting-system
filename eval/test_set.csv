@@ -1,0 +1,41 @@
+id,report_text,expected_location,expected_category,expected_urgency,notes
+1,The AC in CBEIS room 204 is dripping water onto the floor near the sockets,CBEIS room 204,HVAC,critical,Water near electrical sockets; safety risk
+2,Tap in the 2nd floor bathroom in the library won't stop running,Library 2nd floor bathroom,Plumbing,medium,
+3,There's a strong smell of gas outside the cafeteria kitchen,Cafeteria,Grounds and safety,critical,Category is debatable; urgency is not
+4,Projector in Cal 101 isn't turning on and I have a presentation tomorrow,Calloway room 101,IT and AV,medium,Abbreviated building name (Cal)
+5,Light flickering in the corridor near the McMechen stairs,McMechen,Electrical,medium,
+6,Bin is overflowing behind the cafeteria and it's attracting flies,Cafeteria,Cleaning and waste,medium,
+7,Exposed wires hanging from the ceiling in the library reading room,Library reading room,Electrical,critical,
+8,Chair in Calloway 305 has a broken leg,Calloway room 305,Furniture and fixtures,low,
+9,wifi dead in cbeis again,CBEIS,IT and AV,high,"Casual, lowercase; whole building affected"
+10,"Flooding in the basement of McMechen, water is up to the ankles",McMechen basement,Plumbing,critical,
+11,The door lock in McMechen room 112 is jammed and we can't get out,McMechen room 112,Furniture and fixtures,critical,People trapped
+12,Paint is peeling in the hallway outside Calloway,Calloway,Furniture and fixtures,low,Cosmetic
+13,"Streetlight near the sports complex parking is out, very dark at night",Sports complex parking,Grounds and safety,high,Safety at night
+14,toilets on the ground floor of graves are blocked and smell terrible,Graves ground floor,Plumbing,high,Lowercase
+15,Heating isn't working in the library and it's freezing,Library,HVAC,medium,
+16,"Broken window in McMechen room 210, glass all over the floor",McMechen room 210,Furniture and fixtures,high,Glass hazard
+17,The water fountain by the cafeteria entrance is leaking a little,Cafeteria entrance,Plumbing,low,
+18,A ceiling tile fell down in the Calloway corridor,Calloway corridor,Furniture and fixtures,high,Falling hazard
+19,AC is really loud in room 301,Room 301,HVAC,low,No building given
+20,something is wrong with the lights,,Electrical,low,Vague; no location
+21,Sparks came out of the socket in Graves 108 when I plugged in my laptop,Graves room 108,Electrical,critical,
+22,Computer in library lab 3 won't boot,Library lab 3,IT and AV,low,
+23,The stair railing in McMechen is loose,McMechen stairs,Furniture and fixtures,high,Fall risk
+24,"Pothole on the path between Calloway and the library, someone almost tripped",Outdoor / grounds (path between Calloway and Library),Grounds and safety,medium,
+25,A tree branch has fallen across the walkway to the sports complex,Outdoor / grounds (walkway to Sports complex),Grounds and safety,high,
+26,Vending machine ate my money,,Other,low,Not really a facilities issue
+27,Elevator in Graves is stuck between floors with people inside,Graves elevator,Other,critical,People trapped
+28,Someone spilled a drink in the library lobby and the floor is slippery,Library lobby,Cleaning and waste,medium,
+29,Projector in McMechen 203 is broken and the AC there is leaking too,McMechen room 203,HVAC,medium,Two issues in one report; label by the more serious
+30,No hot water in the sports complex showers,Sports complex showers,Plumbing,medium,
+31,Mice spotted in the cafeteria storage area,Cafeteria storage,Cleaning and waste,high,Hygiene risk
+32,The fire alarm in Calloway keeps going off for no reason,Calloway,Electrical,high,
+33,There's a burning smell from the electrical panel in the library basement,Library basement,Electrical,critical,
+34,Whiteboard in Calloway 204 is cracked,Calloway room 204,Furniture and fixtures,low,
+35,Lecture hall A in McMechen has no power in any of the sockets,McMechen lecture hall A,Electrical,high,Room unusable
+36,"Server room in CBEIS is overheating, the AC has stopped",CBEIS server room,HVAC,high,Equipment risk
+37,Please fix the bathroom,,Other,low,Vague; no location or problem
+38,Water leaks through the ceiling of the cafeteria dining area whenever it rains,Cafeteria dining area,Other,high,Roof leak; category debatable
+39,Door to the gym in the sports complex doesn't close properly,Sports complex gym,Furniture and fixtures,low,
+40,Blocked drain outside Graves is causing a puddle on the walkway,Graves walkway,Plumbing,medium,
